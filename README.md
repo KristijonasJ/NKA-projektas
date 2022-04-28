@@ -1,2 +1,2 @@
-# NKA-projetkas
+# NKA-projektas
 NKA projektinis darbas
